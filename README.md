@@ -1,5 +1,5 @@
 Hi, I’m @MihaelHerenda
-I’m interested in Web development
+I’m interested in Software development
 
 <!---
 MihaelHerenda/MihaelHerenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
